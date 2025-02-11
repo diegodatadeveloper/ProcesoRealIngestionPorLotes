@@ -1,2 +1,1 @@
-# ProcesoRealIngestionPorLotes
-Conjunto de funciones en Python, que generan datos de prueba, los separa por lotes (batch) y los ingresa a una base de datos SQLite
+![alt text](https://github.com/diegodatadeveloper/Generador-de-Datos-de-Prueba/blob/main/pythonData.png "Logo Title Text 1")
